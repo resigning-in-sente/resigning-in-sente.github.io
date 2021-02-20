@@ -10,17 +10,11 @@ These articles are written to provide kyu-level players with an in-depth working
 ### Navigation
 
 * [4-4 Jōseki](/44/)
-
 * [3-4 Jōseki](/34/)
-
 * [3-3 Jōseki](/33/)
-
 * [3-5 Jōseki](/35/)
-
 * [4-5 Jōseki](/45/)
-
 * [Side Jōseki](/side/)
-
 * [Miscellaneous Jōseki Articles](/misc/)
 
 ### Philosophy
