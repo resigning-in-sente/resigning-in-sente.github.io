@@ -1,29 +1,19 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### About
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This website is devoted to discussions of baduk/weiqi/go strategy aimed at kyu-level players.
 
-There are currently two themes built on Poole:
+### Acknowledgements
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* The information in the articles is synthesized from a variety of sources. The most important ones are:
+	* Jin Dong-gyu, Korean 7p. His [YouTube channel](https://www.youtube.com/channel/UClyJG8qHaU2QxTFrlBrc3hg) is the single most important resource for this site.
+	* [Sensei's Library](https://senseis.xmp.net/).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* This website was created using Jekyll. The theme is [Lanyon](https://github.com/poole/lanyon). Credit for the theme goes to [Mark Otto](https://github.com/mdo).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* The embedded sgf viewers are [BesoGo](https://yewang.github.io/besogo/) by [yewang](https://github.com/yewang).
