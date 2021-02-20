@@ -52,7 +52,7 @@ We will not list out an exhaustive account of all of the variations, only the on
 <section markdown="1">
 
 After the slide, Black has a choice between (A) and (B). After (A) we arrive at the normal conclusion of the slide variation - very likely the first jōseki that every beginner learns.
-It is a straightforward and peaceful sequence, where both sides settle on the side and the remains half-claimed.
+It is a straightforward and peaceful sequence, where both sides settle on the side and the corner remains half-claimed.
 
 Later, (A) becomes a fairly significant point of contention for yose. In the middlegame, Black may be able to approach at (B) to exploit to some bad aji for White at (D), while White can similarly approach at (C) to exploit some aji if White pushes at (A). Both sides can also look to press the other low and build influence.
 
