@@ -143,21 +143,5 @@ This is the reason that life-and-death practice is so fundamental to baduk: it i
 
 Future articles in the series will address how this concept is applied in a strategic context.
 
-### Other Articles in this Series
-
-* Group Strength and Global Strategy
-
-	* Attack and Defense: Exploiting Imbalances of Strength
-
-	* "Play Away from Strength:" Determining the Direction of Play
-
-* Things to Know about Strength and Weakness
-
-	* No. 1: Strength and Weakness are *Relative* Concepts
-
-	* No. 2: The Strength of Groups is Constantly Evolving
-
-	* No. 3: Strength is Not Always Good, Weakness is Not Always Bad
-
 
 </section>
