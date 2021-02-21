@@ -102,9 +102,9 @@ The answer is no: this time, it is better for Black to place the ponnuki on the 
 The reason is that in this situation, White's stones on the bottom left are already fairly strong by themselves, and do not need the additional reinforcement.
 Placing a ponnuki here is closer to overconcentration for White rather than synergy.
 
-If the ponnuki is on the right, however, then White can get some extra value out of its ponnuki, based on the fact that the Black group in the top left is now under a bit of additional pressure.
+If the ponnuki is on the right, however, then White can get some extra value out of its ponnuki, based on the fact that the Black group in the top right is now under a bit of additional pressure.
 This Black group is generally fairly secure, but does have some bad aji at points like (A) if it starts getting surrounded.
-Black has essentially surrounded its top left group on two sides in gote, and may owe a move later to further help it settle.
+Black has essentially surrounded its top right group on two sides in gote, and may owe a move later to further help it settle.
 
 KataGo rates the difference between the two as 0.5 points, about ~6% in terms of winrate.
 This is fairly significant (especially compared to the first example), though in terms of amateur play this is still a fairly slight difference between the two directions.
