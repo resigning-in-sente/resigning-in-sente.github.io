@@ -1,0 +1,13 @@
+(;SZ[19]AB[cf][cp][dj][dq][pf][pp][qd][qf][rc][rd][re]AW[dd][fc][fq][iq][nc][pd][pe][qb][qc][qe]PL[W]C[Current KataGo winrate: ~50% (B wins), B+0.]AP[Sabaki:0.51.1]CA[UTF-8]LB[pq:C][qp:B][qq:A]TR[rg];W[qp]LB[qo:B][qq:A]C[Even game.
+
+KataGo winrate: ~50% (B wins), B+0.](;B[qq];W[qo];B[pq]LB[ql:A][rg:B]C[Fairly flexible position for White. Extending to A would be the simplest. Peeping at B is viable too, as is a host of other options. Pretty much all reasonable options hover around ~50% winrate.](;W[ql];B[qi]C[Simple, peaceful position.
+
+KataGo winrate: ~50% (B wins), B+0.])(;W[rg];B[rf];W[ql];B[qj];W[on]C[One of many even positions.
+
+Black uses the fact that the triangled stones are still a bit unsettled to approach and draw a response, helping it settle its own stones in the top right.
+
+KataGo winrate: ~50% (B wins), B+0.]TR[on][ql][qo][qp]SQ[qj]))(;B[qo];W[qq]LB[po:A][pq:B]C[A is preferable to B.](;B[po];W[or]C[Fairly flexible position. KataGo suggests pressing at A, which starts a fight as White cuts.
+
+KataGo winrate: 47% (B wins), W+0.5.]LB[nq:A])(;B[pq]C[A big drop in winrate - KataGo winrate ~43% (B wins), W+1. About a 7% drop and 1 point loss.];W[ro];B[rn];W[qn];B[po];W[rm];B[rp];W[sn];B[rq];W[rg]C[The problem here is that Black allows White to get too strong a group in sente compared to the variations in which Black blocked from the inside. There is not much Black can do to fight against the White ponnuki, which makes the upcoming fight difficult for the Black top right.
+
+KataGo winrate: ~35% (B wins), W+2.]TR[qn][rm][ro][sn])))

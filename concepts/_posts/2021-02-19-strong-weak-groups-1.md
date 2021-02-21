@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are Strong and Weak Groups?
+title: Strong and Weak Groups 1 - What are Strong and Weak Groups?
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">
@@ -45,7 +45,7 @@ The two main ones we identify are:
 
 * Strong groups are independent and do not need babysitting against enemy threats. Weak groups have several moves that are sente against them and need attention to ensure their survival.
 
-#### Criterion no. 1: Proximity to Life
+#### Criterion no. 1: Proximity to life
 
 The most clear-cut characterization of a group's strength and weakness is based on its life and death status.
 In fact, we can use this as a working definition:
@@ -58,7 +58,7 @@ Some examples:
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/20210219-01.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -72,7 +72,7 @@ Black's groups on both sides are fairly strong. The lower left corner is yet unf
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/20210219-02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/02.sgf"></div>
 
 
 <section markdown="1">
@@ -83,7 +83,7 @@ The squared Black stone is looking a little weak, as the presence of White stren
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/20210219-03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -91,7 +91,7 @@ Here White has opened with double 3-5 points, and Black has invaded one of them.
 Because Black is nearly sealed in, the marked stones are a little weak right now and should extend to A to secure life.
 Neglecting to do so (for instance, looking to nullify White's influence with (B)) results in White playing (A) instead, which is sente against Black's corner, looking toward the vital point at S18 and threatens seki or a favorable ko for White.
 
-#### Criterion no. 2: Resilience and Independence
+#### Criterion no. 2: Resilience and independence
 
 Another way to think about strong and weak groups is in terms of how resilient they are to enemy threats.
 
@@ -103,7 +103,7 @@ The strongest groups need no additional support and can impose their influence o
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/20210219-04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -115,7 +115,7 @@ One might worry about if a White stone at (A) would be sente, but here Black is 
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/20210219-05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/05.sgf"></div>
 
 <section markdown="1">
 
@@ -132,7 +132,7 @@ As for White, descending to 1 instead of forming a tiger's mouth at 2 has introd
 Black can look to capitalize by approaching at (D) in sente.
 Because allowing such an approach in sente is quite valuable, White typically does not employ the descent except as part of a strategy in which White exploits the weakness of the Black group on the left to deny Black the timing to exploit the attachment (one of the key concepts in Chinese-style fuseki, for example).
 
-### Conclusion and Takeaways
+### Conclusion and takeaways
 
 In this article we have established two criteria for identifying whether a group is weak or strong: based on their proximity to unconditional life, and based on whether nearby enemy approaches are likely to be sente against the group.
 As nearly-live groups are more resilient to enemy approaches and unsettled groups are less so, these concepts mirror each other.
@@ -143,5 +143,6 @@ This is the reason that life-and-death practice is so fundamental to baduk: it i
 
 Future articles in the series will address how this concept is applied in a strategic context.
 
+[Return to the Concepts hub.](/concepts/)
 
 </section>

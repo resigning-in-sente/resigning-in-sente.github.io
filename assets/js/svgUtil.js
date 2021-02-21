@@ -62,7 +62,7 @@ besogo.realStone = function(x, y, color, index) {
     } else {
         color = 'white' + (index % besogo.WHITE_STONES);
     }
-    color = 'img/' + color + '.png';
+    color = '/assets/img/' + color + '.png';
 
     element =  besogo.svgEl("image", {
         x: (x - 44),

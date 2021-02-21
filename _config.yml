@@ -6,16 +6,12 @@ url:                 ''
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-
-# About/contact
-author:
-  name:              neuguy
-  url:               ''
-  email:             ''
+future:              true        ''
 
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-feed
 
 # Custom vars
 version:             1.1.0

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attack and Defense - Exploiting Imbalances of Strength
+title: Strong and Weak Groups 2 - Attack and Defense
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">
@@ -28,11 +28,11 @@ title: Attack and Defense - Exploiting Imbalances of Strength
 
 > This is the second article in the series "Strong and Weak Groups."
 
-In the [first article](/concepts/2021/02/19/strong-weak-groups/) in this series, we identified how to recognize when groups are weak or strong.
+In the [first article](/concepts/2021/02/19/strong-weak-groups-1/) in this series, we identified how to recognize when groups are weak or strong.
 In the remainder of the series, we will examine how this concept is applied on the strategic level.
 Our first goal will be to establish the most basic strategic application of weak/strong groups: attack and defense.
 
-### Weak Groups are Targets for Attack
+### Weak groups are targets for attack
 
 First let us define what it means to attack.
 
@@ -45,7 +45,7 @@ Let us see some of these ways via example.
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/20210220-01.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -56,7 +56,7 @@ The question at hand is how Black can exploit this weak group for profit.
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/20210220-02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -85,11 +85,11 @@ Attacking and killing are very far from synonymous.
 Attacking often uses the *threat* of killing to elicit favorable exchanges, but usually does not actually involve killing the group under attack.
 This is a key difference between weak and strong players: weak players look to kill, while strong players look to profit from attacking and only kill when necessary.
 
-#### Creating Weak Groups and Attacking for Profit
+#### Creating weak groups and attacking for profit
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/20210220-03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -113,7 +113,7 @@ For this reason, the classical approach to the 3-4 point in the Kobayashi is the
 Once again, at no point during this process does Black actually attempt to go after the kill.
 It would be unreasonable to do so at such an early stage in the game, even with Black's local advantage in numbers. and any such attempt would likely be an overplay that would ultimately compromise Black's position.
 
-#### Different Types of Profit
+#### Different types of profit
 
 One of the subtleties to attacking in baduk is that there are so many different ways to derive benefit out of an attack.
 Consequently, one of the most important considerations when planning an attack is determining what type of benefit you want to extract; this is a topic for another article.
@@ -131,7 +131,7 @@ Here is an example of the last of these.
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/20210220-04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -150,7 +150,7 @@ Since White essentially jumped into a pincer it is obvious that the local result
 White's goal here is to settle without giving up too many advantages as it defends against Black's offensive.
 Once White settles, it can look to take advantage of the fact that Black has spent an extra stone on its own side of the board at L3, limiting the speed of Black's expansion to the other side of the board.
 
-### Defending Against Potential Attacks
+### Defending against potential attacks
 
 > Defending is the strengthening of a weak group in order to preempt a later attack by your opponent.
 
@@ -161,7 +161,7 @@ Nevertheless, it is important to avoid the creation of more weak groups than abs
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/20210220-05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/05.sgf"></div>
 
 <section markdown="1">
 
@@ -180,7 +180,7 @@ Not only does this defend against virtually all White attacks against Black's gr
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/20210220-06.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/06.sgf"></div>
 
 <section markdown="1">
 
@@ -200,7 +200,7 @@ If anything, there is the feeling that White has made Black overconcentrated in 
 Therefore in many games Black prevents White's attack against the corner by extending to (B).
 Though the one-space extension may appear slow, it is in fact efficient because it accomplishes multiple things at once: it defends against a White approach, claims some territory on the side, and also establishes a position on the fourth line that could later support Black stones elsewhere.
 
-### How do Attack and Defense Influence Strategy?
+### How do attack and defense influence strategy?
 
 Attack and defense is the central consideration informing almost all strategic decisions in the opening and middlegame.
 
@@ -219,5 +219,7 @@ Strong players rarely play moves based solely on how much territory they claim o
 Instead they look to balance territory-taking and influence-building with threatening their opponent's weaknesses and reinforcing their own.
 
 The next article in this series will elaborate on how these considerations play into the determination of direction of play - one of the most important aspects of baduk strategy.
+
+[Return to the Concepts hub.](/concepts/)
 
 </section>

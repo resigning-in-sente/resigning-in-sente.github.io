@@ -16,3 +16,5 @@ This is a starting page for articles on 3-4 jōseki.
 * Probing the one-space low enclosure series
 * Probing the one-space high enclosure series
 * The attach-draw back jōseki in the middlegame
+
+[Return to the Jōseki hub.](/joseki/)

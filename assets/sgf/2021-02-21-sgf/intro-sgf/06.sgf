@@ -1,0 +1,3 @@
+(;LB[pq:A][qp:B]C[A or B, depending on direction of play.]SZ[19]AB[pp]AW[qq]PL[B]AP[Sabaki:0.51.1]CA[UTF-8];B[pq];W[qp]C[A can lead to complications. They can almost entirely be avoided with either B or C.]LB[po:C][qn:A][qo:B](;B[qn]LB[qo:B][rn:A]C[A may lead to complications.
+
+B attempts to transpose back to a simpler line.](;W[qo];B[po]C[Transposes to the push line.])(;W[rn]C[Can become very complex.]))(;B[qo]C[Goes into the double hane line.])(;B[po]C[Goes into either the knight's move line or push line.]))

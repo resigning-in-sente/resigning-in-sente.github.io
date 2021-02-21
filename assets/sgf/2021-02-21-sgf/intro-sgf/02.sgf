@@ -1,0 +1,7 @@
+(;SZ[19]AB[pp][pq][qm][qn][qo]AW[qp][qq][rn][ro]PL[B]C[The AI recommendation here for White is to tenuki. White is alive as it stands.
+
+A blocks off the right side and invites White to play the hane-connect, as it is sente against the corner.
+
+B blocks off the bottom side but allows White to push out along the right.
+
+C is a mistake, as it allows White to live right away.]AP[Sabaki:0.51.1]CA[UTF-8]LB[pr:B][qr:C][rm:A](;B[rm]C[Black A kills, Black B allows White to live. The key is whether White can play the vital point at 1 in sente.]LB[pr:A][qr:B][rr:1](;B[pr]C[Kills. Best understood in terms of the L+1 group.])(;B[qr];W[rr];B[pr];W[rs]C[Life.])(;W[pr];B[or];W[qr];B[nq]TR[rm]C[Black has thickness and the block at S7. White has the corner and sente in addition to having already played elsewhere once.]))(;B[pr]LB[qr:B][rm:A]C[A lives with the possibility of sente, B allows the turn at A in sente.](;W[rm];B[ql]LB[qr:A][rl:B]C[One more move is necessary for life.](;W[qr]C[Life.])(;W[rl];B[qk]C[Life.]))(;W[qr];B[rm]C[Sente against the group. White needs an extra move at A. Best understood in terms of the L+1 group.]LB[rq:A];W[rq]C[Life, but allowing the turn and losing sente is painful.]TR[rm]))(;B[qr];W[rr];B[pr]LB[rm:A][rs:B]C[White can tenuki. A and B are miai for life.]))

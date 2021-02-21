@@ -30,7 +30,7 @@ In this post we will analyze two of the most common responses to the 4-4, low ap
 
 </section>
 
-<div class="besogo-diagram" maxwidth="550" nowheel="true" nokeys="true" coord="western" sgf="/assets/sgf/2021-02-18-sgf/20210218-01.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" nokeys="true" coord="western" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -43,11 +43,11 @@ Our goal in this post will be to compare and contrast the two jōseki to underst
 First, let us see the basic lines of each jōseki.
 We will not list out an exhaustive account of all of the variations, only the ones necessary to make our point.
 
-### The slide variation
+### The slide
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -69,7 +69,7 @@ This is also how Black settles when Black pincers.
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -82,7 +82,7 @@ We will consider each move separately.
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -95,7 +95,7 @@ This additionally keeps White pressed low in an area where White would prefer to
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-04-2.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04-2.sgf"></div>
 
 <section markdown="1">
 
@@ -109,7 +109,7 @@ Otherwise, if the lower left corner is Black's, then White will often choose to 
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-04-3.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04-3.sgf"></div>
 
 <section markdown="1">
 
@@ -121,7 +121,7 @@ Namely, if Black already has support near the triangled point, then White is not
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/05.sgf"></div>
 
 <section markdown="1">
 
@@ -133,7 +133,7 @@ In a vacuum, this result is considered to be somewhere between even and slightly
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-06.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/06.sgf"></div>
 
 <section markdown="1">
 
@@ -148,7 +148,7 @@ From this perspective, this variation of the attachment adds to the slide jōsek
 So what are the major differences between the slide and the attachment?
 This is best understood in terms of the variations in which White takes the corner.
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/20210218-07.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/07.sgf"></div>
 
 Suppose that Black has extra support on the bottom side. In this case White may prefer to slide rather than attach. If White attaches in this situation, then there is a strong possibility that White ends up taking the corner: either because White does not want to risk fighting outside with Black support so nearby, or because Black forces White's hand. The key point is that in this case, the original approaching stone (marked by a triangle) inevitably ends up being cut off from the main White group. This is the main advantage that sliding has over the attachment: there are no variations of the slide variation in which the approaching stone is cut off from the main group.
 
@@ -160,5 +160,7 @@ The main advantage to the slide over the attachment is that the slide keeps all 
 
 However, these are all fairly minor advantages, and for kyu-level players there is usually no significant difference whether one plays the slide or the attachment variation. Getting significant benefit out of playing elsewhere in response to the slide is a fairly advanced skill, and there is not much to be lost by responding classically and defending the corner. The main moral of this comparison is to reaffirm the basic principle that the surroundings are what determine the correct jōseki to use.
 Here, an extra stone along the bottom side is enough to tip the scales in favor of the slide, despite the attachment being favored in almost every other opening context.
+
+[Return to the 4-4 Jōseki page.](/44/)
 
 </section>

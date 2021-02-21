@@ -1,0 +1,13 @@
+(;PL[W]SZ[19]AB[po][pp][pq][qo][rp][rq]AW[qn][qp][qq][rm][ro][sn]AE[qr][rr]C[A is a probe/sente exchange. Otherwise the lines are similar.
+
+B to build influence along the right side.
+
+C is locally sente and can be used to support White operations on the bottom side, including an invasion. White may also use the aji here to threaten to play C instead of playing C directly.]AP[Sabaki:0.51.1]CA[UTF-8]TR[jq]LB[nr:C][pn:B][qr:A](;W[pn]C[A allows White to push from behind as it builds its wall on the right.
+
+B forestalls White 1 while not going along with White's plan to build the wall.
+
+Black can play elsewhere, allowing White 1 in sente.]LB[no:B][on:A][oo:1](;B[on];W[om];B[nn];W[nm];B[mn]LB[nr:A]C[Normally it is bad to push from behind like this, but here A is still locally sente, making it possible for White to invade or reduce the side.])(;B[no])(;W[oo]C[Sente, threatening 1.]LB[qr:1];B[pr]C[Solid move. Position is settled. ]))(;W[qr];B[rr]LB[nr:B][pn:A]C[A to build influence along the right side.
+
+B is locally sente and can be used to invade the bottom side.](;W[pn]C[A is typical.
+
+B is less common with the marked exchange, because it strengthens the peep.]LB[no:B][on:A]TR[qr][rr](;B[on];W[om];B[nn];W[nm];B[mn]LB[nr:A]C[Normally it is bad to push from behind like this, but here A is still locally sente, making it possible for White to invade or reduce the side.])(;B[no];W[on]C[If Black ignores this...]PL[W];W[oo];B[op];W[np]C[Without the marked exchange, Black can extend to A and fight: when White descends Black can just sacrifice the corner by playing B. Now that option is removed.]LB[mo:A][pr:B]TR[qr][rr](;B[mo];W[pr]C[Kills.])(;B[pr]TR[np]C[Now White can fight here since the cut was made in sente.])))(;W[nr];B[or]))(;W[nr]LB[qr:1]C[Threatens 1.];B[qr]TR[jq]C[White can use this to support operations on the side.]))
