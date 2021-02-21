@@ -11,7 +11,7 @@ This is a starting page for articles on general concepts in baduk/weiqi/go strat
 * Series: Strong and Weak Groups
 	* [What are Strong and Weak Groups?](/concepts/2021/02/19/strong-weak-groups-1/)
 	* Group Strength and Global Strategy
-		* [Attack and Defense -  Exploiting Imbalances of Strength](/concepts/2021/02/20/strong-weak-groups-2-attack-and-defense/)
+		* [Attack and Defense](/concepts/2021/02/20/strong-weak-groups-2-attack-and-defense/)
 		* "Play Away from Strength" - Determining the Direction of Play
 	* Things to Know about Strength and Weakness
 		* Strength and Weakness are *Relative* Concepts
