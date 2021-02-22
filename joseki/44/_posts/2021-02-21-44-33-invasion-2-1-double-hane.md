@@ -29,6 +29,8 @@ title: The 3-3 Invasion 2-1 - The Double Hane
 > This is the third article in the series "The 3-3 Invasion," and the first part of a 2-part article on the double hane line. The second part can be found [here](/joseki/44/2021/02/21/44-33-invasion-2-2-34-invasion/).
 
 
+> [Previous article](/joseki/44/2021/02/21/44-33-invasion-1-intro/), [Next article](/joseki/44/2021/02/21/44-33-invasion-2-2-34-invasion/)
+
 In this article we discuss the basic theory of the double hane line of the early 3-3 invasion.
 This is the first of two articles on the double hane.
 
