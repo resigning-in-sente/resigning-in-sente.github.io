@@ -28,6 +28,8 @@ title: Strong and Weak Groups 1 - What are Strong and Weak Groups?
 
 > This is the first article in the series "Strong and Weak Groups."
 
+> [Next article](/concepts/2021/02/20/strong-weak-groups-2-attack-and-defense/)
+
 In this article we introduce the concept of the strength/weakness of a group.
 This is arguably the most important strategic concept in baduk - almost all strategic considerations can be distilled to this one idea at their core.
 It is a necessary idea to understand in order to bridge the gap between high SDK and low SDK play.
