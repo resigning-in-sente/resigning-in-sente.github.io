@@ -41,7 +41,7 @@ When we first start learning to play baduk, we are commonly taught the following
 * Play urgent moves before playing big moves.
 
 Direction of play is a concept that consolidates these and all similar concepts into one.
-It asks a question with a simple premise: *what general area of the board should I play my next move?*
+It asks a question with a simple premise: *in what general area of the board should I play my next move?*
 Of course, the simplicity of this question is deceiving: anyone who has played more than a few games of baduk knows the feeling of being lost in the vastness of the 19x19 board.
 However, it may surprise you to learn that determining the direction of play is actually fairly straightforward a lot of the time.
 The key to it all is the concept of strong and weak groups.
