@@ -28,7 +28,7 @@ title: Strong and Weak Groups 2 - Attack and Defense
 
 > This is the second article in the series "Strong and Weak Groups."
 
-> [Previous article](/concepts/2021/02/19/strong-weak-groups-1/), [Next article](/concepts/).
+> [Previous article](/concepts/2021/02/19/strong-weak-groups-1/), [Next article](/concepts/2021/02/2/strong-weak-groups-3-direction-of-play/).
 
 In the [first article](/concepts/2021/02/19/strong-weak-groups-1/) in this series, we identified how to recognize when groups are weak or strong.
 In the remainder of the series, we will examine how this concept is applied on the strategic level.
