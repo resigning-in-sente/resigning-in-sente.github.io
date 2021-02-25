@@ -76,7 +76,7 @@ For now, there's no better way to learn this concept than to see some examples.
 
 Let's examine the above position from a sample game.
 White has just played (1) as part of the 4-4, double low approach jōseki.
-At the moment the game is fairly even, with KataGo assigning about ~50% winrate and a score of ~B+0.
+At the moment the game is very even.
 In which general direction should Black play next, and why?
 
 ##### Determining the weak and strong groups
@@ -168,11 +168,10 @@ Here there is a strong Black group, and since we want to play *away* from our ow
 
 This is indeed the case.
 (A) and (B) result in no significant loss of winrate, and even a gain of winrate in the case of (A).
-(C), however, is about a 4% loss in winrate and about a 0.5 point loss in score for Black.
-(D) and (E) are significantly worse, being about a 1.5 point and a 2.5 point loss respectively.
-As we can see, the closer our stones get to the bottom left corner, the worse KataGo evaluates it, but that's not all: (D) and (E) are also *farther away from White's weak group on the top right.*
+(C), however, results in a small loss in winrate and score, while (D) and (E) are significantly worse.
+As we can see, the closer our stones get to the bottom left corner, the worse KataGo evaluates it, but that's not the only reason: (D) and (E) are also *farther away from White's weak group on the top right,* hurting Black's ability to fight on the top side.
 
-The sequences following each choice are just some of the many possible continuations, which serve to illustrate how these differences in winrate play out in concrete fashion.
+The sequences following each choice are just some of the many possible continuations, which serve to illustrate how these differences in winrate might manifest in play.
 
 </section>
 
@@ -191,7 +190,7 @@ Just to further verify that out theory on the direction of play is correct, let'
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/02.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -216,7 +215,7 @@ Therefore our direction of play should be the top side, same as before.
 
 <section markdown="1">
 
-Indeed, KataGo bears out our analysis when we examine the same five moves from before.
+Indeed, KataGo confirms our analysis when we examine the same five moves from before.
 Either play reinforcing the top Black stone is near optimal, while each of the extensions on the left are received poorly.
 Once again, the further the extensions on the left, the worse the reception by KataGo - because they are closer to the strong stones in the lower left, and farther from White's weak group in the top left, hurting the ability for Black to fight on the top.
 
@@ -224,7 +223,7 @@ Once again, the further the extensions on the left, the worse the reception by K
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/03.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -252,11 +251,10 @@ The extensions from the Black group on the left should better than before, becau
 
 <section markdown="1">
 
-Once again KataGo confirms our intuition.
-(A) and (B) are as good as before: our analysis of these moves has not changed significantly.
-But now, (C), (D), and especially (E) are much more positively viewed by KataGo, with (E) (the closest to the bottom left) being considered the best out of all five options.
+This time, KataGo evaluates the side extensions on the left more positively, (E) particularly so.
 This is because the extensions further weaken White's bottom left, with the threat of the peep looming ever closer.
-With Black having settled one weak group, now White has two weak groups to Black's one, forcing White to find a way to somehow settle both groups while Black only needs to focus on one.
+(C) is likely evaluated better than (D) because neither (C) nor (D) are close enough to White's bottom left to really pressure it, in which case they are more evaluated for what sort of effect they have on the fight on the top side.
+In any case, with Black having settled one weak group, now White has two weak groups to Black's one, forcing White to find a way to somehow settle both groups while Black only needs to focus on one.
 
 These examples should hopefully convince you that the intuition from the principle "play away from strength" bears out in actual play.
 

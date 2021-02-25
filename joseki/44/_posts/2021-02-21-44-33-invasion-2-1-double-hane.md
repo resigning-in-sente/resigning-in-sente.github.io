@@ -82,7 +82,7 @@ This isn't entirely wrong, but they likely won't synergize as well as you'd thin
 * Black has sente, and can start developing the synergy between its distant stones before White can.
 
 Is it a huge mistake if you put the ponnuki on the "wrong" side?
-Not really - the difference is fairly slight, and either way is still quite playable.
+In this case, not really - the difference is fairly slight, and either way is still quite playable.
 KataGo gives (A) a 0.1% advantage in winrate over (B) in this particular setting.
 Regardless, life is a bit easier for White if it does not let Black's stones synergize too easily.
 

@@ -17,7 +17,7 @@ This is a starting page for articles on general concepts in baduk/weiqi/go strat
 		* Strength and Weakness are *Relative* Concepts
 		* The Strength of Groups is Constantly Evolving
 		* Strength is Not Always Good, Weakness is Not Always Bad
-
+* [Choosing the Right Extension](/concepts/2021/02/24/choosing-right-extension/)
 ### To be written
 
 * (Series) Strong and Weak Groups
