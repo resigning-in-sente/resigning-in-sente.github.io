@@ -18,8 +18,8 @@ This is a starting page for articles on general concepts in baduk/weiqi/go strat
 		* The Strength of Groups is Constantly Evolving
 		* Strength is Not Always Good, Weakness is Not Always Bad
 * [Choosing the Right Extension](/concepts/2021/02/24/choosing-right-extension/)
+* [The Value of Ko]
 ### To be written
-
-* (Series) Strong and Weak Groups
-* Choosing the right extension
-* Positional evaluation
+* (Ongoing series) Strong and Weak Groups
+* Early and Midgame Ko Fights
+* Positional Evaluation
