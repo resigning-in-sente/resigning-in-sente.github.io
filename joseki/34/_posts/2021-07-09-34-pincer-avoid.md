@@ -210,13 +210,13 @@ The first line we explore is the kick (top variation), and here to prove our poi
 We see that by completely foregoing any attempt to save the pincered stone, Black can use its two free moves to quickly establish a presence everywhere on the board and even begin going on a counter-offensive in White's opposing corner.
 White comes out of this with an extremely strong group in the top left, but otherwise it is so far very limited in what parts of the board it lays claim to.
 As a result, Black actually comes out slightly ahead in this line.
-There are many other ways to play the kick from this starting position, including responding locally, all of which KataGo considered at least playable.
+There are many other ways to play the kick from this starting position, including responding locally, all of which KataGo considers at least playable.
 
 The second line we explore is the attachment (bottom variation).
 Here we note that Black, by virtue of having the bottom right corner, has the ladder and therefore can play the wedge.
 By the end of the sequence, White has some decent influence and sente while Black has a respectable corner.
 If we do some tewari analysis, this isn't that different from if Black *first* plays the top left corner in a way to exchange the corner for influence in sente, and *then* uses sente to enclose the bottom right corner, as opposed to vice versa.
-Such a sequence of events is, of course, nothing new if you've played enough games at the SDK level, and it makes sense that this variation results in no significant change in winrate or score for Black.
+Such a sequence of events is, of course, nothing new if you've played enough games at the SDK level, and it makes sense that this variation also turns out to be ok for Black according to KataGo.
 Again, this is not the only line KataGo considers viable after the attachment, and things can play out in several ways (including all of the ways we have discussed above).
 
 ### Dodging the pincer II: Make a base on the side
