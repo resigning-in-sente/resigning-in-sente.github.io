@@ -8,6 +8,8 @@ This is a starting page for articles on 3-4 jōseki.
 
 ### Articles
 
+* [Dr. Dodge or; How I Learned to Avoid the Pincer and Love the Tenuki](/joseki/34/2021/07/09/34-pincer-avoid/)
+
 ### To be written
 
 * Simplifying the avalanche
