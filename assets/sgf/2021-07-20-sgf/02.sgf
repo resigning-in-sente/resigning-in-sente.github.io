@@ -1,0 +1,19 @@
+(;GM[1]FF[4]CA[UTF-8]AP[Sabaki:0.52.0]SZ[19];B[pq];W[po];B[qo];W[qn];B[qp]HO[1]C[Decision point 1:
+
+White chooses between the secure connection A, the hanging connection B, or tenuki. If Black has the top right corner then White may also look to  approach (such as at C) before coming back to A or B.]LB[pm:B][pn:A][qf:C](;W[pn]LB[np:B][nq:A][op:C]C[Decision point 2:
+
+Black chooses between a local response (A, B, or C, which are broadly similar) or tenuki. A pincer is possible but White need not fear it.](;B[nq]C[Decision point 3:
+
+White chooses between a local response (A or B) or tenuki. If Black has the top right corner, White may also look to approach (such as at C) before deciding its local response. Jumping to the center is another option.]LB[pj:A][qf:C][qj:B](;W[pj]LB[rl:A]C[Invasion point at A.])(;W[qj]LB[ql:A]C[Invasion point at A.]))(;B[np]C[Decision point 3:
+
+White chooses between a local response (A or B) or tenuki. If Black has the top right corner, White may also look to approach (such as at C) before deciding its local response. Jumping to the center is another option.]LB[pj:A][qf:C][qj:B](;W[pj]LB[rl:A]C[Invasion point at A.])(;W[qj]LB[ql:A]C[Invasion point at A.]))(;B[op]C[Decision point 3:
+
+White chooses between a local response (A or B) or tenuki. If Black has the top right corner, White may also look to approach (such as at C) before deciding its local response. Jumping to the center is another option.]LB[pj:A][qf:C][qj:B](;W[pj]C[Invasion point at A.]LB[rl:A])(;W[qj]C[Invasion point at A.]LB[ql:A])))(;W[pm]C[Decision point 2:
+
+Black chooses between a local response (A, B, or C, which are broadly similar) or tenuki. A pincer is possible but White need not fear it.]LB[np:B][nq:A][op:C](;B[nq]C[Decision point 3:
+
+White chooses between extending (typically A) or tenuki.]LB[qi:A];W[qi]LB[ql:A]C[Invasion point at A.])(;B[np]C[Decision point 3:
+
+White chooses between extending (typically A) or tenuki.]LB[qi:A];W[qi]LB[ql:A]C[Invasion point at A.])(;B[op]C[Decision point 3:
+
+White chooses between extending (typically A) or tenuki.]LB[qi:A];W[qi]LB[ql:A]C[Invasion point at A.])))

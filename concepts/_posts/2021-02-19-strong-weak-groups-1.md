@@ -60,7 +60,7 @@ Some examples:
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/01.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -74,7 +74,7 @@ Black's groups on both sides are fairly strong. The lower left corner is yet unf
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/02.sgf"></div>
 
 
 <section markdown="1">
@@ -85,7 +85,7 @@ The squared Black stone is looking a little weak, as the presence of White stren
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -105,7 +105,7 @@ The strongest groups need no additional support and can impose their influence o
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -117,7 +117,7 @@ One might worry about if a White stone at (A) would be sente, but here Black is 
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-19-sgf/strong-weak-groups-sgf/05.sgf"></div>
 
 <section markdown="1">
 

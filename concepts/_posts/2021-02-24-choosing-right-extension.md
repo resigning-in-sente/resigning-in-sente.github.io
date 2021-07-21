@@ -28,7 +28,7 @@ title: Choosing the Right Extension
 
 ### A proverb that does more harm than good
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/01.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/01.sgf"></div>
 
 When we first start learning baduk, we are commonly taught the following principle governing the length of side extensions:
 
@@ -57,7 +57,7 @@ This is its true meaning:
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/02-1.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/02-1.sgf"></div>
 
 <section markdown="1">
 
@@ -69,7 +69,7 @@ Too many beginners would leave this Black group alone, thinking it is safe becau
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/02-2.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/02-2.sgf"></div>
 
 <section markdown="1">
 
@@ -116,7 +116,7 @@ Let's see what this means by studying some examples from jōseki.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/03-1.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/03-1.sgf"></div>
 
 <section markdown="1">
 
@@ -152,7 +152,7 @@ Any White approaches after (A) are ignored.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/03-2.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/03-2.sgf"></div>
 
 <section markdown="1">
 
@@ -195,7 +195,7 @@ Let's test this principle in a real-game context.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/04-1.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-24-sgf/extension-sgf/04-1.sgf"></div>
 
 <section markdown="1">
 

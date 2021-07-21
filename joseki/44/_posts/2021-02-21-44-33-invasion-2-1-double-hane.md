@@ -38,7 +38,7 @@ This is the first of two articles on the double hane.
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/01.sgf"></div>
+<div class="besogo-viewer" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -61,7 +61,7 @@ White wants to choose the direction of White's ponnuki in a way that favors Whit
 
 </section>
 
-<div class="besogo-viewer" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/02.sgf"></div>
+<div class="besogo-viewer" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -92,7 +92,7 @@ Here is one example.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -118,7 +118,7 @@ We now examine how play can continue from the double hane jōseki.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/05.sgf"></div>
 
 <section markdown="1">
 
@@ -132,7 +132,7 @@ The first has to do with if White has additional stones on top of the Black grou
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/06.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/06.sgf"></div>
 
 <section markdown="1">
 
@@ -140,7 +140,7 @@ The second has to do with if White approaches from the side:
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/07.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/07.sgf"></div>
 
 <section markdown="1">
 
@@ -152,7 +152,7 @@ This leads to the following (non-exhaustive, but pretty close) range of follow-u
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/08.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/08.sgf"></div>
 
 <section markdown="1">
 
@@ -165,7 +165,7 @@ Note here that the aji of the second line approach means that White may be ok wi
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-21-sgf/double-hane-sgf/04.sgf"></div>
 
 <section markdown="1">
 

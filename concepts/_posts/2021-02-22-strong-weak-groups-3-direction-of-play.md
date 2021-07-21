@@ -70,7 +70,7 @@ For now, there's no better way to learn this concept than to see some examples.
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -90,7 +90,7 @@ With these criteria firmly in mind, let's go through this board carefully, corne
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-1.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-1.sgf"></div>
 
 <section markdown="1">
 
@@ -107,7 +107,7 @@ But if we're purely talking about life and death, then Black can afford to ignor
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-2.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-2.sgf"></div>
 
 <section markdown="1">
 
@@ -122,7 +122,7 @@ If Black gets C2 then Black might as well just be considered unconditionally ali
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-3.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-3.sgf"></div>
 
 <section markdown="1">
 
@@ -154,7 +154,7 @@ The goal here is not necessarily to guess the *best* next move: merely the gener
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-4.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-4.sgf"></div>
 
 <section markdown="1">
 
@@ -175,7 +175,7 @@ The sequences following each choice are just some of the many possible continuat
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-5.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/01-5.sgf"></div>
 
 <section markdown="1">
 
@@ -190,7 +190,7 @@ Just to further verify that out theory on the direction of play is correct, let'
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/02.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" coord="western" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -211,7 +211,7 @@ Therefore our direction of play should be the top side, same as before.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/02-1.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/02-1.sgf"></div>
 
 <section markdown="1">
 
@@ -223,7 +223,7 @@ Once again, the further the extensions on the left, the worse the reception by K
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" coord="western" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/03.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" coord="western" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -247,7 +247,7 @@ The extensions from the Black group on the left should better than before, becau
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/03-1.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="comment+tree+control" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-22-sgf/direction-of-play-sgf/03-1.sgf"></div>
 
 <section markdown="1">
 

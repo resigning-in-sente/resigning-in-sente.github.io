@@ -60,7 +60,7 @@ Here are a few examples to illustrate the point.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/01.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -73,7 +73,7 @@ Of course, these winrate and score differences are not significant enough to mak
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -93,7 +93,7 @@ This is an extra burden that the pincermaster needs to deal with: even if you ar
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -118,7 +118,7 @@ As an example, let's see what Kogo's has to say about tenuki in the low approach
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -133,7 +133,7 @@ Instead, switching lightly elsewhere and doing so without the ladder is *precise
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/05-1.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/05-1.sgf"></div>
 
 <section markdown="1">
 
@@ -171,7 +171,7 @@ The final evaluation of who comes out on top may not happen for quite a while ye
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/05-2.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/05-2.sgf"></div>
 
 <section markdown="1">
 
@@ -197,7 +197,7 @@ Let's now see a few examples of how this works in a simulated game.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/06.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/06.sgf"></div>
 
 <section markdown="1">
 
@@ -239,7 +239,7 @@ Often the difference is as small as 0.5 points, which is not something that tend
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/07.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/07.sgf"></div>
 
 <section markdown="1">
 
@@ -256,7 +256,7 @@ This is, of course, not specific to the two-space high pincer, nor to the high a
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/08.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-07-09-sgf/pincer-sgf/08.sgf"></div>
 
 <section markdown="1">
 

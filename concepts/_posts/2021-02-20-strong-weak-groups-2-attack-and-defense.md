@@ -47,7 +47,7 @@ Let us see some of these ways via example.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/01.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -58,7 +58,7 @@ The question at hand is how Black can exploit this weak group for profit.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -91,7 +91,7 @@ This is a key difference between weak and strong players: weak players look to k
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -133,7 +133,7 @@ Here is an example of the last of these.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -163,7 +163,7 @@ Nevertheless, it is important to avoid the creation of more weak groups than abs
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/05.sgf"></div>
 
 <section markdown="1">
 
@@ -182,7 +182,7 @@ Not only does this defend against virtually all White attacks against Black's gr
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/06.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-20-sgf/attack-defense-sgf/06.sgf"></div>
 
 <section markdown="1">
 

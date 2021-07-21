@@ -30,7 +30,7 @@ In this post we will analyze two of the most common responses to the 4-4, low ap
 
 </section>
 
-<div class="besogo-diagram" realstones="on" maxwidth="550" nowheel="true" nokeys="true" coord="western" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/01.sgf"></div>
+<div class="besogo-diagram" realstones="on" maxwidth="800" nowheel="true" nokeys="true" coord="western" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/01.sgf"></div>
 
 <section markdown="1">
 
@@ -47,7 +47,7 @@ We will not list out an exhaustive account of all of the variations, only the on
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/02.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/02.sgf"></div>
 
 <section markdown="1">
 
@@ -69,7 +69,7 @@ This is also how Black settles when Black pincers.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/03.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/03.sgf"></div>
 
 <section markdown="1">
 
@@ -82,7 +82,7 @@ We will consider each move separately.
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04.sgf"></div>
 
 <section markdown="1">
 
@@ -95,7 +95,7 @@ This additionally keeps White pressed low in an area where White would prefer to
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04-2.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04-2.sgf"></div>
 
 <section markdown="1">
 
@@ -109,7 +109,7 @@ Otherwise, if the lower left corner is Black's, then White will often choose to 
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04-3.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/04-3.sgf"></div>
 
 <section markdown="1">
 
@@ -121,7 +121,7 @@ Namely, if Black already has support near the triangled point, then White is not
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/05.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/05.sgf"></div>
 
 <section markdown="1">
 
@@ -133,7 +133,7 @@ In a vacuum, this result is considered to be somewhere between even and slightly
 
 </section>
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/06.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/06.sgf"></div>
 
 <section markdown="1">
 
@@ -148,7 +148,7 @@ From this perspective, this variation of the attachment adds to the slide jōsek
 So what are the major differences between the slide and the attachment?
 This is best understood in terms of the variations in which White takes the corner.
 
-<div class="besogo-viewer" realstones="on" maxwidth="550" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/07.sgf"></div>
+<div class="besogo-viewer" realstones="on" maxwidth="800" nowheel="true" coord="western" panels="control+tree+comment" orient="portrait" portratio="none" sgf="/assets/sgf/2021-02-18-sgf/slide-attach-sgf/07.sgf"></div>
 
 Suppose that Black has extra support on the bottom side. In this case White may prefer to slide rather than attach. If White attaches in this situation, then there is a strong possibility that White ends up taking the corner: either because White does not want to risk fighting outside with Black support so nearby, or because Black forces White's hand. The key point is that in this case, the original approaching stone (marked by a triangle) inevitably ends up being cut off from the main White group. This is the main advantage that sliding has over the attachment: there are no variations of the slide variation in which the approaching stone is cut off from the main group.
 
