@@ -182,7 +182,7 @@ Such invasions are generally premature and help the approaching side more than t
 Keeping these four points in mind is already enough to serve as a decent basis from which you can play the attach-draw back jōseki by ear.
 Of course, in this article we have only scratched the surface of this jōseki.
 In the remainder of this series we intend to discuss several of the lines in detail, and refine some of the concepts we have developed above.
-However, the philosophical framework of all of subsequent discussions will be based on the principles and objectives for the jōseki we have described here.
+However, the philosophical framework of all of these subsequent discussions will be based on the principles and objectives for the jōseki we have described here.
 
 [Return to the 3-4 Jōseki page.](/34/)
 

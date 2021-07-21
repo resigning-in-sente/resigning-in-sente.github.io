@@ -162,7 +162,7 @@ Not only that, there is still a tiny bit of value left in the White stone.
 For instance, White could continue locally at A to put a few stones on the outside in sente, or perhaps threaten a connection underneath to get an approach from the side in sente.
 So despite Black having invested a total of *four* stones in this area to White's one, there's *still* some aji left in this position for White to exploit!
 
-So to summarize, to capture White's stone by attaching on top is overconcentraded and smaller in value than at first glance.
+So to summarize, to capture White's stone by attaching on top is overconcentrated and smaller in value than at first glance.
 Of course, Black knows this as well.
 Therefore Black can *also* tenuki from this position (bottom variation), and the local position becomes very interesting.
 Black's goal will be to capture the White stone indirectly, namely by omitting the attachment on top.
