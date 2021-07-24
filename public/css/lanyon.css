@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: 1.25rem; /* 14px */
   }
 }
 
@@ -555,4 +555,16 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+/* Non-Lanyon tweaks */
+
+.codinfox-tag-mark{
+  font-size: 75%;
+  font-family:'Courier New', Courier, monospace;
+  padding: 0 .5rem 0 .5rem;
+  border-radius: 5px;
+  background: #e7f2f7;
+  color: #6a9fb5;
 }

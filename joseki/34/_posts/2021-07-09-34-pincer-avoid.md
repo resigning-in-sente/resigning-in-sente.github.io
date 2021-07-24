@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dr. Dodge or; How I Learned to Avoid the Pincer and Love the Tenuki
+tags: [34-joseki, joseki-simplification]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

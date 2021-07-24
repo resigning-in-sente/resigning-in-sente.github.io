@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strong and Weak Groups 3 - Determining the Direction of Play
+tags: [general-strategy, strong-weak-groups, direction-of-play]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

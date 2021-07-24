@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The 3-3 Invasion 2-1 - The Double Hane
+tags: [44-joseki, 33-invasion]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

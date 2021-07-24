@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strong and Weak Groups 1 - What are Strong and Weak Groups?
+tags: [general-strategy, strong-weak-groups]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

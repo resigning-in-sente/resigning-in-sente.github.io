@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Choosing the Right Extension
+tags: [general-strategy, strong-weak-groups]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

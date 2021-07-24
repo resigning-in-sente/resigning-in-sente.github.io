@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 4-4 Low Approach - Slide or Attach?
+tags: [44-joseki, 44-low-approach]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

@@ -36,3 +36,11 @@ h2 {
     margin: 0 auto;
     text-align: initial;
 }
+
+.svg-icon {
+    display:inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    margin: 0 auto;
+  }

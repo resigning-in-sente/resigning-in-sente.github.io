@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The 3-3 Invasion 3 - The Knight's Move vs. the Push
+tags: [44-joseki, 33-invasion]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">
@@ -56,7 +57,7 @@ Let me just put the answer up front:
 > You can play whichever one you prefer and be perfectly fine deep into dan level.
 
 If you've got things to do, you can feel free to stop reading here: with complete seriousness, that's all you need to know.
-Our initial assessment of the difference between the two joseki is correct: the most important aspect of these joseki is that the defender chooses the direction of play and takes the outside in sente, while the invader takes the corner in gote, and what differences exist are fairly minor relative to this fact.
+Our initial assessment of the difference between the two jōseki is correct: the most important aspect of these jōseki is that the defender chooses the direction of play and takes the outside in sente, while the invader takes the corner in gote, and what differences exist are fairly minor relative to this fact.
 So for example, if you only play the knight's move as the invader, nobody will yell at you and tell you you're totally wrong, including our lord and savior KataGo.
 Most of the time, if one is indeed better than the other, it is only by a difference of 0.1 score, and almost never more than 0.2.
 The most important reason to learn both lines is simply that half of the time, you will be the defender rather than the invader, so you at least need to know how the defender responds to both lines.
@@ -68,7 +69,7 @@ However, it will still be instructive for you to follow along, as we *are* going
 However, does that mean that there's literally no difference between the two lines?
 Not at all!
 There are fairly specific, albeit subtle, differences between the knight's move and the push, and we will be spending the rest of this post describing them: there are some interesting strategic concepts here that are good to keep in mind as we continue learning about the 3-3 invasion.
-It's just that if all we're concerned about is winrate and score, then these differences are still sufficiently minor that amateurs can get away with either joseki and come out perfectly fine.
+It's just that if all we're concerned about is winrate and score, then these differences are still sufficiently minor that amateurs can get away with either jōseki and come out perfectly fine.
 
 ### The medium version: The knight's move is never *bad*
 
@@ -81,31 +82,31 @@ In the knight's move, it is rarely urgent for either side to continue locally.
 > 3. The push is slightly more swingy.
 > Given the right board-state, some lines can be judged to favor one side over the other.
 
-Ultimately, what this means is that if you don't want to think too hard about your joseki, you might want to adopt the knight's move as your main option.
+Ultimately, what this means is that if you don't want to think too hard about your jōseki, you might want to adopt the knight's move as your main option.
 If you know the lines of the knight's move well, it is basically impossible for you to make a serious mistake and come out with an uneven result.
 You don't need to worry all that much about timing a local continuation, since it is relatively rare that a local continuation from a knight's move is overwhelmingly better than any other option.
 However, it also means that there is very little opportunity for you to punish your opponent for a mistake.
-It is a joseki with a very even keel.
+It is a jōseki with a very even keel.
 
 With the push the probability of an unfavorable outcome increases slightly, and you need to match it to the global board-state a little more carefully.
 However, if you play it well, you also have the possibility of coming out slightly ahead.
-It's a joseki where you want to know the ins and outs pretty well to get the most out of it.
+It's a jōseki where you want to know the ins and outs pretty well to get the most out of it.
 Realistically, if you're at the level where you're capable of getting the most out of the push variation, then you're way too strong to be reading this blog.
 
 ### The long version
 
 Now, let's finally get into the details.
-The nature of the difference between the two joseki can be stated quite briefly:
+The nature of the difference between the two jōseki can be stated quite briefly:
 
-> In the push variation, the invader owes an extra move locally, and the joseki has a tendency to favor whoever returns to the position first.
+> In the push variation, the invader owes an extra move locally, and the jōseki has a tendency to favor whoever returns to the position first.
 > In the knight's move variation, neither side gets any significant local advantage by playing the first follow-up.
 
-Explaining this dichotomy, however, requires us to understand some basic ideas specific to these joseki.
+Explaining this dichotomy, however, requires us to understand some basic ideas specific to these jōseki.
 The first of these is to understand the strength of the groups involved.
 
 #### Why is tenuki possible for the defender?
 
-To explain the strength of the groups involved in each joseki, it is instructive to explore the question: why is Black able to tenuki at this stage?
+To explain the strength of the groups involved in each jōseki, it is instructive to explore the question: why is Black able to tenuki at this stage?
 Let's first consider this question for the knight's move.
 
 </section>
@@ -156,7 +157,7 @@ Consequently, in high-level games this diagonal move tends to go unplayed until 
 <section markdown="1">
 
 However, if we run the same exercise for the push variation, things change rather drastically.
-When White plays first in this joseki, White gets a nice atari in sente and a very important descent to the 3-2 point (funny how that point keeps coming up, eh?) which is deceptively large by virtue of accomplishing important goals simultaneously.
+When White plays first in this jōseki, White gets a nice atari in sente and a very important descent to the 3-2 point (funny how that point keeps coming up, eh?) which is deceptively large by virtue of accomplishing important goals simultaneously.
 The takeaway here is that in the push variation, the invader gets quite a lot out of coming back to the corner first - the first significant departure from the knight's move.
 This is a sequence that is well worth playing early if the invader gets the opportunity.
 
@@ -196,14 +197,14 @@ For the knight's move variation, the defender has a multitude of ways to play th
 Black generally lets White leave easily in the corner in exchange for expanding its moyo, and none of the outcomes significantly favor either side locally; as usual, the status of such territory-influence exchanges comes down to the global board-state.
 Option A is the most combative option, and there is a single line here in which Black benefits from a favorable ladder.
 However, White has the freedom to dodge this line, at two separate points no less.
-Although A takes the same critical 3-2 point that we keep coming back to, in the knight's move variation taking A does automatically give the defender all the agency in the choice of joseki.
+Although A takes the same critical 3-2 point that we keep coming back to, in the knight's move variation taking A does automatically give the defender all the agency in the choice of jōseki.
 
 #### The game plan
 
 So, to summarize:
 
 1. In the push variation, returning to the corner first tends to be fairly valuable.
-With first-move advantage, the invader gets to play a very large descent, while the defender denies this descent and can potentially force a locally favorable joseki with a favorable ladder.
+With first-move advantage, the invader gets to play a very large descent, while the defender denies this descent and can potentially force a locally favorable jōseki with a favorable ladder.
 
 2. In the knight's move variation, returning to the corner first tends not to be all that valuable.
 The invader cannot do much to extract a huge advantage even with the first move, and the defender doesn't have many ways to force any specific type of favorable response.
@@ -245,10 +246,10 @@ We also see an instance of KataGo using the defender's emergency escape option i
 With this we have covered the main strategic differences between the push and the knight's move variations of the 3-3 invasion.
 Ultimately, at amateur level it is perfectly acceptable to use either one as you see fit.
 The important aspect of these variations is not how to choose which one to play, as they are nearly equivalent in value in most situations.
-Rather, the key point is to understand that though these joseki are usually similar in terms of value, they do play fairly differently in the continuations, and you must adapt your play accordingly.
+Rather, the key point is to understand that though these jōseki are usually similar in terms of value, they do play fairly differently in the continuations, and you must adapt your play accordingly.
 
 In the next articles in this series, we will start looking at the individual variations (knight's move, push, one-space jump) in greater detail.
 
 [Return to the 4-4 Jōseki page.](/44/)
 
-</section>
+</section>ōseki

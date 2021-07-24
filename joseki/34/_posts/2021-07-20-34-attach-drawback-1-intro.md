@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Attach-Draw Back Jōseki 1 - Introduction
+tags: [34-joseki, attach-drawback-joseki]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">

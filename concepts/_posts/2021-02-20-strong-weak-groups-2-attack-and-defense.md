@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Strong and Weak Groups 2 - Attack and Defense
+tags: 
+tags: [general-strategy, strong-weak-groups, attack-defense]
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/besogo.css">
