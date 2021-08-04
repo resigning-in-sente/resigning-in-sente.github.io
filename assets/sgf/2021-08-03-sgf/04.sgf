@@ -1,0 +1,14 @@
+(;SZ[19]AW[pp]AB[pq]PL[B]AP[Sabaki:0.52.0]CA[UTF-8];B[qp]LB[oq:A][qo:B]C[A or B, whichever is in the direction of play: since we are assuming the bottom side is the correct direction, we'll show A.];W[oq]C[When in doubt, think of A as the default option - you cannot get a bad result.
+
+B and C are acceptable.
+
+The main thing to remember is not to cut at D.]LB[op:D][po:A][qo:B][qq:C](;B[po];W[op];B[qq]C[White successfully establishes itself on the bottom side as intended. White can tenuki, but can also push Black once or twice (A) for extra influence at the cost of territory. Other continuations include B and C, but ultimately can be played by ear.
+
+Slightly good for Black from a purely local perspective - see variation for an explanation.]LB[kq:C][nn:B][oo:A](;W[oo];B[pn];W[on];B[pm])(;PL[W]AE[dd]AB[cd][dc][de]AW[ec][ed]LB[cc:B][cd:1][dc:3][dd:A][de:5][ec:2][ed:4]C[The bottom right is slightly favorable locally to Black because in comparison to the shape in the top left (which occurs commonly from the 3-4 low approach), White has unnecessarily added the A-B exchange which helps Black more than White.]))(;B[qq]C[Solid play. White can tenuki, but can also continue at A or B.]LB[op:A][po:B](;W[po]C[Black can tenuki.])(;W[op]C[A transposes back to if Black plays the atari first.
+B and C are similar - Black gets out on the right and White settles on the bottom.]LB[pn:C][po:A][qn:B](;B[po])(;B[qn]LB[kp:B][kq:A][lp:D][lq:C]C[Any reasonable side extension is viable for White.])(;B[pn]C[Some extension along the bottom side.];W[kq])))(;B[qo]C[A is simple and good enough.]LB[po:B][pr:A];W[pr];B[qq];W[np]C[White settles nicely in gote in the direction of its choice. Black gets sente and a decent corner.
+
+This position is similar to a variation of the avalanche with White A and Black B.]LB[po:A][qn:B])(;B[op];W[po]C[Black has trouble fighting because it has two weaknesses to cover but can only take care of one.
+
+A can only be played with a favorable ladder, but a favorable ladder doesn't imply a good outcome.
+
+B is possible but the outcomes here favor White as well.]LB[nq:B][qq:A];B[qq]LB[np:A][nq:B]C[A with the ladder, B otherwise.](;W[np]C[If White has the ladder then this is catastrophic for Black - Black could have easily taken the corner without giving away this much thickness.])(;W[nq]C[Fighting pattern. Still tends to favor White, at least slightly.])))

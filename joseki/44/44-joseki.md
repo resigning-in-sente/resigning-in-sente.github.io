@@ -13,6 +13,7 @@ This is a starting page for articles on 4-4 jōseki.
 	* [Introduction](/joseki/44/2021/02/21/44-33-invasion-1-intro/)
 	* [The Double Hane](/joseki/44/2021/02/21/44-33-invasion-2-1-double-hane/)
 		* [The 3-4 Invasion](/joseki/44/2021/02/21/44-33-invasion-2-2-34-invasion/)
+	* [The Knight's Move vs. the Push](/joseki/44/2021/07/21/44-33-invasion-3-knight-vs-push/)
 	
 ### To be written
 * Series: The double low approach

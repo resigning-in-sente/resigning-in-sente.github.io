@@ -23,3 +23,4 @@ This is a starting page for articles on general concepts in baduk/weiqi/go strat
 * (Ongoing series) Strong and Weak Groups
 * Early and Midgame Ko Fights
 * Positional Evaluation
+* The Art of Dying (series)

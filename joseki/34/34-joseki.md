@@ -11,11 +11,11 @@ This is a starting page for articles on 3-4 jōseki.
 * [Dr. Dodge or; How I Learned to Avoid the Pincer and Love the Tenuki](/joseki/34/2021/07/09/34-pincer-avoid/)
 * Series: The Attach-Draw Back Jōseki
     * [Introduction](/joseki/34/2021/07/20/34-attach-drawback-1-intro/)
+* [3-4 Approaches - the 4-4 attachment](/joseki/34/2021/08/03/44-attach/)
 
 ### To be written
 
 * Simplifying the avalanche
-* The 4-4 attachment
 * Attach-draw back series
     * [The Secure Connection vs. the Hanging Connection](/34/)
     * [Approaching the Extension from the Side](/34/)

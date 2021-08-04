@@ -1,0 +1,21 @@
+(;LB[oq:B][qq:A]SZ[19]AW[pp]AB[pq]PL[B]AP[Sabaki:0.52.0]CA[UTF-8]C[A transposes to a 3-3 point jōseki.
+
+B retains control of the direction of play, but at the cost of limiting Black's corner.](;B[qq]C[Transposes to the standard 3-3 4-4 approach jōseki, which usually arises in the given order.
+
+We will not list all continuations, but A is typical.]LB[op:A][pp:2][pq:3][qq:1];W[op]C[A values the right side but allows White the turn at B. Note that in this case White gets to block in the direction it originally wanted to play.
+
+B values the bottom side but allows White to block the right. In addition it has the feel of pushing from behind, so it is a bit situational.
+
+C intends to retain some choice of direction, but possibly at the cost of additional White thickness.]LB[oq:B][qp:C][ro:A](;B[ro];W[oq]C[White settles on the correct side, Black takes the corner and sente. See continuation for discussion.];PL[B]AB[dc][cd][de][cc]AW[dd][ec][ed]C[These outcomes look superficially similar since White gets to block in the direction it originally wanted. However, there are key differences:
+
+1. Black has sente in the bottom right, White in the top left.
+
+2. The bottom right, from a purely local perspective, is jōseki. The top right favors Black locally due to the added exchange.
+
+3. In the top left, a White push at A (and possibly once more) could be sente, allowing White to expand its influence. In the bottom right, White does not necessarily have access to sente moves with this effect (assuming Black does not continue locally).]LB[ee:A])(;B[oq];W[np]C[Normally Black makes this exchange to jump to A. B is still an option but in that case the marked exchange feels somewhat unnecessary.]LB[mq:A][ro:B]TR[np][oq];B[mq];W[qp]LB[lq:B][nq:A]C[A or B are both viable. White may want to extend from this wall since there is relatively little aji in the corner that can be exploited to settle.])(;B[qp];W[pn]C[A denies the tiger's mouth. White can make shape with 1.
+
+B can be used as part of a whole-board strategy where Black does not want to exchange A for 1. However, in exchange White gets to play A instead.]LB[nm:1][nq:B][qo:A](;B[qo];W[nm]LB[nq:A][qm:B]C[Black can jump to either A or B depending on which direction is important. White blocks the opposite side. Black could tenuki and leave the decision for later, since White cannot block both sides simultaneously.])(;B[nq];W[qo]C[Big move. Black can tenuki, but there are also viable local continuations for both sides.])))(;B[oq]LB[op:B][qp:A]C[With A White intends to force Black to play the 3-3, then extend to settle.
+
+B transposes to the avalanche.](;W[op];B[qp];W[qo]LB[op:2][oq:3][pp:4][pq:5][qo:6][qp:1]C[Transposes to the avalanche, which normally arises in the listed order.
+
+Black does prevent White from playing their intended direction, but the avalanche is already a smaller corner for Black than the attach-draw back outcome.])(;W[qp];B[qq];W[ql]C[White cedes control over the direction of play, but this outside group limits the size of Black's corner.])))
