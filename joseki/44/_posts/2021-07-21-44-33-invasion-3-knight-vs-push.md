@@ -252,4 +252,4 @@ In the next articles in this series, we will start looking at the individual var
 
 [Return to the 4-4 Jōseki page.](/44/)
 
-</section>ōseki
+</section>
