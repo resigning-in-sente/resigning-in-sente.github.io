@@ -1,0 +1,17 @@
+(;C[Move 32: W L4
+Score: W+7.5
+Win rate: W 87.1%
+Estimated point loss: 1.6
+Predicted top move was C5 (W+9.4).
+PV: WC5 E4 C3 E5 B6 K5 H5 B4 B3 D5 D3 K7 H7 G2 H9 C17
+Move was #7 according to policy  (4.54%).
+Top policy move was N3 (15.6%).
+ㅤ​]AB[cp][dn][dr][eq][fq][kq][po][pp][pq][pr][qd][qf][qo][qr][rb][rc]AW[dd][dp][fp][gq][iq][kc][kp][od][pc][qc][qn][qp][qq][rm][ro][rr]PL[B]AP[Sabaki:0.52.0]CA[UTF-8](;B[lq]C[Move 33: B M3
+Score: W+8.2
+Win rate: W 87.6%
+Estimated point loss: 0.7
+Predicted top move was M4 (W+7.4).
+PV: BM4 E4 C3 L5 K3 K4 M3 C14 H5 H6 J5 G5 J6 J7 H4 H7
+Move was #2 according to policy  (45.93%).
+Top policy move was M4 (51.0%).
+ㅤ​](;W[lp]C[One AI recommendation.];B[jp];W[jq];B[jo];W[ep];B[cq])(;W[ep]C[Another AI recommendation.];B[gp];W[cq];B[dq];W[co];B[bp];W[do];B[bo];W[cn];B[go];W[bn];B[bq];W[io]))(;B[lp]C[AI recommended move.];W[jp]LB[lo:B][lq:A]C[I was thinking about A and neglected to consider B.](;B[lq]C[What I was expecting.];W[lo];B[mo];W[mn])(;B[lo]C[AI continuation.];W[co];B[do];W[cq];B[bp];W[ep];B[dq];W[go];B[hp];W[gp];B[cc]C[White can get 1 in sente thanks to the marked stone, and there is a weakness at 2, so this White group is effectively settled. However Black's territory on the bottom right isn't bad and Black has sente.]TR[cq]LB[fr:1][lq:2])))

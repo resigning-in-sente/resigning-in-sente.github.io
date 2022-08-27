@@ -1,0 +1,44 @@
+(;C[Move 26: W J3
+Score: W+6.2
+Win rate: W 80.7%
+Estimated point loss: 1.7
+Predicted top move was M3 (W+8.1).
+PV: WM3 J3 P7 O6 M5 Q7 Q6 P6 J4 H3 P8 O7 O4 M7 O2 O5
+Move was #18 according to policy  (0.93%).
+Top policy move was M3 (25.0%).
+ㅤ​]AW[dd][dp][iq][kc][od][pc][qc][qn][qp][qq][rm][ro][rr]AB[dn][dr][fq][po][pp][pq][pr][qd][qf][qo][qr][rb][rc]PL[B]AP[Sabaki:0.52.0]CA[UTF-8];B[kq]C[Move 27: B L3
+Score: W+6.1
+Win rate: W 80.4%
+Predicted top move was L4 (W+6.2).
+PV: BL4 C8 B6 F4 G3 E7 E6 F6 F7 G6 D7 G4 H3
+Move was #2 according to policy  (35.95%).
+Top policy move was M3 (46.2%).
+ㅤ​];W[fp]C[Move 28: W F4
+Score: W+6.2
+Win rate: W 80.5%
+Move was predicted best move
+PV: WF4 G4 F5 G3 E7 H6 C8 Q6 C3 K7 Q7 P7 Q8 C17 C16 D17 E17
+Move was #1 according to policy  (23.51%).
+ㅤ​];B[cp]C[Move 29: B C4
+Score: W+8.7
+Win rate: W 88.4%
+Estimated point loss: 2.5
+Predicted top move was G4 (W+6.1).
+PV: BG4 F5 G3 E7 H6 C8 Q6 C3 K7 Q7 P7 Q8 C17 C16 D17 E17
+Move was #7 according to policy  (0.09%).
+Top policy move was G4 (79.4%).
+ㅤ​];W[gq]C[Move 30: W G3
+Score: W+9.1
+Win rate: W 88.9%
+Predicted top move was C3 (W+8.7).
+PV: WC3 D3 C5 E4 B4 F5 G4 D5 G5 C6 F6 C4 C14 G3 D4 E5
+Move was #3 according to policy  (11.66%).
+Top policy move was E3 (49.1%).
+ㅤ​];B[eq]C[Move 31: B E3
+Score: W+9.1
+Win rate: W 88.8%
+Move was predicted best move
+PV: BE3 C5 E4 C3 E5 B6 K5 H5 B4 B3 D5 D3 K7 H7 G2 H9 C17
+Move was #2 according to policy  (26.58%).
+Top policy move was F2 (50.0%).
+ㅤ​])

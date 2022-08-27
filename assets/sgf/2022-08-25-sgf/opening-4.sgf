@@ -1,0 +1,9 @@
+(;C[Move 25: B D6
+Score: W+7.9
+Win rate: W 84.8%
+Estimated point loss: 0.6
+Predicted top move was Q6 (W+7.0).
+PV: BQ6 H3 E5 D5 E6 D6 D7 C7 C8 B8 D8 B9 K4 D3 C2
+Move was #6 according to policy  (3.87%).
+Top policy move was C7 (35.0%).
+ㅤ​]AW[dd][dp][kc][od][pc][qc][qn][qp][qq][rm][ro][rr]AB[dn][dr][fq][po][pp][pq][pr][qd][qf][qo][qr][rb][rc]PL[W]AP[Sabaki:0.52.0]CA[UTF-8]LB[hp:B][lq:A](;W[lq]C[AI recommended move.];B[jp];W[lo];B[pn];W[pm];B[om];W[pl];B[ol];W[ml];B[pk];W[ok];B[nk];W[oj];B[qk];W[rl];B[nl];W[hp])(;W[hp]LB[eo:A][lq:B]C[AI 2nd recommendation.](;B[eo];W[lq];B[iq];W[ko];B[om];W[ip];B[hq];W[gp];B[gq];W[bn];B[ql];W[rl];B[cc])(;B[lq];W[eo];B[cp];W[co];B[cq];W[dl];B[cn];W[en];B[em];W[dm];B[bo];W[gm];B[fl];W[gl];B[fk];W[fm];B[el])))
