@@ -10,7 +10,7 @@ This is a landing page for the subtitling project for the Baduk Formulas lecture
 
 * Full playlists:
 	* [Original](https://www.youtube.com/playlist?list=PLf3LXQuZsHcZSd-vILqwFrR7nbnbJ8BRC)
-	* [English subbed (WIP - 4/19)](https://www.captionfy.com/playlist/%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94-%EB%B0%94%EB%91%91%EA%B3%B5%EC%8B%9D)
+	* [English subbed (WIP - 6/19)](https://www.captionfy.com/playlist/%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94-%EB%B0%94%EB%91%91%EA%B3%B5%EC%8B%9D)
 * Individual videos:
 	* Baduk Formulas #1
 		* Stones that can't extend two spaces become weak groups | Invading is smaller than extending
@@ -28,5 +28,13 @@ This is a landing page for the subtitling project for the Baduk Formulas lecture
 		* Against a double wing formation from 4-4 point, invade the 3-3 point | Against a double wing from a 3-4 point, approach based on whether you can extend two spaces or not
 		* [Original](https://youtu.be/0D4OXFY1k_A)
 		* [English subbed](https://www.captionfy.com/video/youtube/0D4OXFY1k_A?caption=en)
+	* Baduk Formulas #5
+		* Stick to simple jōseki in your opponent's corner | Sacrifice stones that are pincered
+		* [Original](https://youtu.be/sZKXWl9Fo6Y)
+		* [English subbed](https://www.captionfy.com/video/youtube/sZKXWl9Fo6Y?c=en)
+	* Baduk Formulas #6
+		* As black, expand your moyo | As White, adapt to Black's gameplan
+		* [Original](https://youtu.be/MQD54eVyRhM)
+		* [English subbed](https://www.captionfy.com/video/youtube/MQD54eVyRhM?c=en)
 
 [Return to the Translations hub.](/translations/)

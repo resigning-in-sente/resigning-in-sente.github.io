@@ -18,5 +18,5 @@ If you like what you see here, please drop by the original channel to drop a lik
 
 * Lecture series: Baduk Formulas
 	* [Original](https://www.youtube.com/playlist?list=PLf3LXQuZsHcZSd-vILqwFrR7nbnbJ8BRC)
-	* [English subbed (WIP - 4/19)](https://www.captionfy.com/playlist/%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94-%EB%B0%94%EB%91%91%EA%B3%B5%EC%8B%9D)
+	* [English subbed (WIP - 6/19)](https://www.captionfy.com/playlist/%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94-%EB%B0%94%EB%91%91%EA%B3%B5%EC%8B%9D)
 	* [Series landing page](/translations/2025/09/28/baduk-formulas/)
